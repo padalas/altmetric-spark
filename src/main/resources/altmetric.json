@@ -1,0 +1,178 @@
+{
+  "altmetric_id": 103440,
+  "counts": {
+    "readers": {
+      "citeulike": "0",
+      "mendeley": "22",
+      "connotea": "0"
+    },
+    "blogs": {
+      "unique_users_count": 1,
+      "unique_users": [563],
+      "posts_count": 2
+    },
+    "googleplus": {
+      "unique_users_count": 1,
+      "unique_users": ["Laidir Bean"],
+      "posts_count": 1
+    },
+    "total": {"posts_count": 3}
+  },
+  "citation": {
+    "title": "Chocolate and strawberries",
+    "pubdate": "2011-02-01T00:00:00+00:00",
+    "volume": "43",
+    "issue": "2",
+    "startpage": "85",
+    "endpage": "85",
+    "doi": "10.1038/ng0211-85",
+    "pmid": "21270832",
+    "journal": "Nature Genetics",
+    "altmetric_jid": "4f6fa50a3cf058f610003164",
+    "publisher": "Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+    "links": [
+      "http://dx.doi.org/10.1038/ng0211-85",
+      "http://www.nature.com/ng/journal/v43/n2/full/ng0211-85.html"
+    ],
+    "mendeley_url": "http://www.mendeley.com/research/chocolate-strawberries"
+  },
+  "altmetric_score": {
+    "score": 7.024,
+    "score_history": {
+      "at": 7.024,
+      "1d": 0,
+      "2d": 0,
+      "3d": 0,
+      "4d": 0,
+      "5d": 0,
+      "6d": 0,
+      "1w": 0,
+      "1m": 0,
+      "3m": 0,
+      "6m": 0,
+      "1y": 0
+    },
+    "context_for_score": {
+      "all": {
+        "total_number_of_other_articles": 2422817,
+        "mean": 4.8995430631152,
+        "rank": 333352,
+        "this_scored_higher_than_pct": 86,
+        "this_scored_higher_than": 2089457,
+        "rank_type": "exact",
+        "sample_size": 2422817,
+        "percentile": 86
+      },
+      "similar_age_3m": {
+        "total_number_of_other_articles": 1988166,
+        "mean": 5.0875046095277,
+        "rank": 290516,
+        "this_scored_higher_than_pct": 85,
+        "this_scored_higher_than": 1697642,
+        "rank_type": "exact",
+        "sample_size": 1988166,
+        "percentile": 85
+      },
+      "this_journal": {
+        "total_number_of_other_articles": 2461,
+        "mean": 13.634670731707,
+        "rank": 932,
+        "this_scored_higher_than_pct": 62,
+        "this_scored_higher_than": 1527,
+        "rank_type": "exact",
+        "sample_size": 2461,
+        "percentile": 62
+      },
+      "similar_age_this_journal_3m": {
+        "total_number_of_other_articles": 2461,
+        "mean": 13.632628455285,
+        "rank": 932,
+        "this_scored_higher_than_pct": 62,
+        "this_scored_higher_than": 1527,
+        "rank_type": "exact",
+        "sample_size": 2461,
+        "percentile": 62
+      }
+    }
+  },
+  "demographics": {
+    "users": {
+      "mendeley": {
+        "by_status": {
+          "Professor": 2,
+          "Assistant Professor": 1,
+          "Post Doc": 4,
+          "Ph.D. Student": 8,
+          "Researcher (at a non-Academic Institution)": 2,
+          "Student (Master)": 3,
+          "Student (Bachelor)": 2
+        },
+        "by_discipline": {
+          "Economics": 1,
+          "Computer and Information Science": 1,
+          "Medicine": 2,
+          "Social Sciences": 1,
+          "Biological Sciences": 17
+        }
+      }
+    },
+    "geo": {
+      "mendeley": {
+        "US": 1,
+        "BR": 2,
+        "IT": 1,
+        "JP": 1
+      }
+    }
+  },
+  "posts": {
+    "blogs": [
+      {
+        "title": "Genetics of treats kindly treated",
+        "url": "http://feeds.nature.com/~r/ng/rss/free_association_with_comments/~3/VMVtHE00bFo/post.html",
+        "posted_on": "2011-02-22T11:02:00+00:00",
+        "citation_ids": [103440],
+        "summary": "Dear Myles: \n\t\t    I truly enjoyed reading the following statements in your editorial (43:page 85) ??First...\"for the parallel study of mechanisms of evolution, both the mechanisms of speciation and those operating in adaptation at the population level in",
+        "author": {
+          "name": "Free Association",
+          "url": "http://blogs.nature.com/ng/freeassociation/",
+          "description": "Welcome to Free Association, the Nature Genetics blog. Check here regularly for links and editorial comment on research and news in genetics, as well as reader feedback."
+        }
+      },
+      {
+        "title": "Genetics of treats kindly treated",
+        "url": "http://feeds.nature.com/~r/ng/rss/free_association_with_comments/~3/YNv84vCbYKI/post.html",
+        "posted_on": "2011-02-22T06:02:06+00:00",
+        "license": "public",
+        "citation_ids": [103440],
+        "summary": "Dear Myles: \n\nI truly enjoyed reading the following statements in your editorial (43:page 85) ??First…“for the parallel study of mechanisms of evolution, both the mechanisms of speciation and those operating in adaptation at the population level in the cou",
+        "author": {
+          "name": "Free Association",
+          "url": "http://blogs.nature.com/ng/freeassociation/",
+          "description": "Welcome to Free Association, the Nature Genetics blog. Check here regularly for links and editorial comment on research and news in genetics, as well as reader feedback."
+        }
+      }
+    ],
+    "googleplus": [
+      {
+        "title": "\"The Future Of Chocolate\", by Maryam Henein Back in the Mayan age, around 1100 BCE, around the Upper...",
+        "url": "https://plus.google.com/115209146402137977226/posts/Jwb3Z2pH6ky",
+        "posted_on": "2013-09-09T11:01:16+01:00",
+        "citation_ids": [103440],
+        "summary": "\"The Future Of Chocolate\", by Maryam Henein Back in the Mayan age, around 1100 BCE, around the Upper... &quot;The Future Of Chocolate&quot;, by Maryam HeneinBack in the Mayan age, around 1100 BCE, around the Upper Amazon River Basin, cacao was recognized a",
+        "author": {
+          "name": "Laidir Bean",
+          "url": "https://plus.google.com/115209146402137977226",
+          "image": "https://lh3.googleusercontent.com/-ZYUjwgtbR14/AAAAAAAAAAI/AAAAAAAAB5I/whovWNpqleU/photo.jpg?sz=50",
+          "id_on_source": "115209146402137977226"
+        }
+      }
+    ]
+  },
+  "score": 7.024,
+  "images": {
+    "small": "https://altmetric-badges.a.ssl.fastly.net/?size=64&score=8&types=bbbbbggg",
+    "medium": "https://altmetric-badges.a.ssl.fastly.net/?size=100&score=8&types=bbbbbggg",
+    "large": "https://altmetric-badges.a.ssl.fastly.net/?size=180&score=8&types=bbbbbggg"
+  }
+}
